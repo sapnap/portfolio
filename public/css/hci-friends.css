@@ -153,7 +153,6 @@ section {
 
 #view-btn:hover {
 	background-color: #12CC98;
-	text-decoration: none;
 }
 
 #view-btn:active {
@@ -269,13 +268,14 @@ section {
 .project-type {
 	font-weight: 400;
 	margin-top: 10px;
-	margin-bottom: 30px;
+	/*margin-bottom: 30px;*/
 	padding-right: 50px;
 }
 
 .project-info {
 	font-family: 'Gondola', sans-serif;
 	padding-top: 10px;
+	margin-top: 30px;
 }
 
 .style1 .project-info {
