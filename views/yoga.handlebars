@@ -1,0 +1,50 @@
+<!doctype html>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+	<title>SAPNA PATEL | EXECUTIVE YOGA</title>	
+	<!-- <meta charset="utf-8"> -->
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="shortcut icon" href="images/dino-favicon.png">
+	<link rel="icon" href="images/dino-favicon.png">
+
+	<link href="css/bootstrap-theme.css" rel="stylesheet">
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/hci-friends.css" rel="stylesheet">
+	<!-- <link href="css/styles.css" rel="stylesheet"> -->
+</head>
+<body>
+	<header id="topNav">
+		<nav>
+			<a id="logo-block" href="/">
+				<img id="dino" src="images/dino2.png">
+				<img src="images/dino-text.png">
+			</a>
+			<ul id="main-nav">
+				<li>
+					<a href="/" class="smoothScroll">work</a>
+				</li>
+				<li>
+					<a href="/about">about</a>
+				</li>
+				<li>
+					<a href="images/sapnapatel_resume.pdf" target="_blank" id="download">resume</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+
+	<div class="style1 project-page yoga">
+		<div class="intro">
+			<h2 class="project-title">Executive Yoga</h2>
+			<h4 class="project-type">Illustration</h4>
+			<p class="project-info">I illustrated 120 yoga poses for an instructional app and book.  Here are a few...</p>  
+		</div>
+		<div id="yoga-poses">
+			{{#each poses}}
+				<img src="images/yoga/{{link}}">
+			{{/each}}
+		</div>
+	</div>
+</body>

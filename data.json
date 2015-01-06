@@ -1,34 +1,92 @@
 {
-	"friends": [
+	"photos": [
 		{
-			"name": "Doug Engelbart",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
+			"caption": "Washed Up, Galápagos Islands",
+			"imageURL": "DSC_0913.jpg"			
 		},
 		{
-			"name": "Ivan Sutherland",
-			"description": "Great at sketching",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/5/5c/Ivan_Sutherland_at_CHM.jpg"			
+			"caption": "Sydney Harbor",
+			"imageURL": "206823_6682478978_506033978_265087_2849_n.jpg"			
 		},
 		{
-			"name": "Lucy Suchman",
-			"description": "Loves Trukese navigators",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/d/df/Lucy_Suchman.jpeg"			
+			"caption": "Land Iguana, Galápagos Islands",
+			"imageURL": "DSC_0019.jpg"			
 		},
 		{
-			"name": "Vannevar Bush",
-			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
+			"caption": "Road to Nowhere, San Pedro de Atacama, Chile",
+			"imageURL": "DSC_0023.jpg"			
 		},
 		{
-			"name": "Grace Hopper",
-			"description": "Only friend with a Navy ship named after them",
-			"imageURL": "http://www.personal.psu.edu/djd5202/gHop.jpg"
+			"caption": "Lion around, Galápagos Islands",
+			"imageURL": "DSC_0043.jpg"			
 		},
 		{
-			"name": "Allen Newell",
-			"description": "Really into psychology",
-			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+			"caption": "Sally Light Foot Crab, Galápagos Islands",
+			"imageURL": "DSC_0064.jpg"			
+		},
+		{
+			"caption": "Swallow-tailed Gull, Galápagos Islands",
+			"imageURL": "DSC_0129.jpg"			
+		},
+		{
+			"caption": "Cliffs of Moher, Ireland",
+			"imageURL": "DSC_0138 - Version 2.jpg"			
+		},
+		{
+			"caption": "",
+			"imageURL": "DSC_0153.jpg"			
+		},
+		{
+			"caption": "Marine Iguana, Galápagos Islands",
+			"imageURL": "DSC_0154.jpg"			
+		},
+		{
+			"caption": "Galápagos Sea Lion",
+			"imageURL": "DSC_0272.jpg"			
+		},
+		{
+			"caption": "Machu Picchu",
+			"imageURL": "DSC_0304 - Version 2.jpg"			
+		},
+		{
+			"caption": "Ireland",
+			"imageURL": "DSC_0333.jpg"			
+		},
+		{
+			"caption": "Galápagos Sea Lion",
+			"imageURL": "DSC_0471.jpg"			
+		},
+		{
+			"caption": "Cochin, India",
+			"imageURL": "DSC_0481.jpg"			
+		},
+		{
+			"caption": "Dubai, United Arab Emirates",
+			"imageURL": "DSC_0503.jpg"			
+		},
+		{
+			"caption": "Placido, Chile",
+			"imageURL": "DSC_0651.jpg"			
+		},
+		{
+			"caption": "India",
+			"imageURL": "IMG_0074.jpg"			
+		},
+		{
+			"caption": "Blue-footed Boobies, Galápagos Islands",
+			"imageURL": "IMG_8973.jpg"			
+		},
+		{
+			"caption": "Galápagos Sea Lion",
+			"imageURL": "IMG_9483.jpg"			
+		},
+		{
+			"caption": "Red Fort, New Delhi, India",
+			"imageURL": "n506033978_1207348_2870.jpg"			
+		},
+		{
+			"caption": "Salt Flats, San Pedro de Atacama, Chile",
+			"imageURL": "panorama1.jpg"			
 		}
 	]
 }

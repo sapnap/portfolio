@@ -1,0 +1,52 @@
+{
+	"projects": [
+		{
+			"name": "SOUNDBOARD",
+			"imageURL": "images/soundboard/soundboard_logoSM.png",
+			"link":	"soundboard",	
+			"category": "Web Design, UI Design"	
+		},
+		{
+			"name": "QuestBridge",
+			"imageURL": "images/quest_thumb.png",
+			"link":	"quest",	
+			"category": "Graphic Design, Marketing"	
+		},
+		{
+			"name": "First Amendment Coalition",
+			"imageURL": "/images/fac_thumb.jpg",
+			"link":	"fac",	
+			"category": "Infographic, Graphic Design"			
+		},
+		{
+			"name": "readImagine",
+			"imageURL": "/images/ri_thumb.jpg",
+			"link":	"readimagine",	
+			"category": "UI Design, Illustration"			
+		},
+		{
+			"name": "Executive Yoga",
+			"imageURL": "images/yoga_thumb.png",
+			"link":	"yoga",	
+			"category": "Illustration"			
+		},
+		{
+			"name": "Faux Film",
+			"imageURL": "images/ff_thumb.png",
+			"link":	"fauxfilm",	
+			"category": "Graphic Design, Illustration, Poster Design"	
+		},
+		{
+			"name": "Drawing",
+			"imageURL": "images/drawing_thumb.png",
+			"link":	"drawing",	
+			"category": ""	
+		},
+		{
+			"name": "Photography",
+			"imageURL": "images/photo_thumb.jpg",
+			"link":	"photo",	
+			"category": ""			
+		}
+	]
+}

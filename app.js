@@ -9,7 +9,15 @@ var path = require('path');
 var handlebars = require('express3-handlebars')
 
 var index = require('./routes/index');
-var add = require('./routes/add');
+var about = require('./routes/about');
+var soundboard = require('./routes/soundboard');
+var fauxfilm = require('./routes/fauxfilm');
+var photo = require('./routes/photo');
+var yoga = require('./routes/yoga');
+var quest = require('./routes/quest');
+var drawing = require('./routes/drawing');
+var fac = require('./routes/fac');
+var readimagine = require('./routes/readimagine');
 // Example route
 // var user = require('./routes/user');
 
@@ -37,9 +45,15 @@ if ('development' == app.get('env')) {
 
 // Add routes here
 app.get('/', index.view);
-app.get('/add', add.addFriend);
-// Example route
-// app.get('/users', user.list);
+app.get('/soundboard', soundboard.view);
+app.get('/fauxfilm', fauxfilm.view);
+app.get('/about', about.view);
+app.get('/photo', photo.view);
+app.get('/yoga', yoga.view);
+app.get('/quest', quest.view);
+app.get('/drawing', drawing.view);
+app.get('/fac', fac.view);
+app.get('/readimagine', readimagine.view);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
