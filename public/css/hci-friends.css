@@ -368,7 +368,8 @@ section {
 
 .two .blurb-photos {
 	display: inline-block;
-	margin-left: 80px;
+	margin-left: 12%;
+	width: 40%;
 }
 
 .two .blurb-photos img {
